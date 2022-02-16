@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Study Materials
 uid: 7690ba97-15c3-060e-125d-a1dd6abbef63
 ---
@@ -9,7 +11,7 @@ Getting Started
 
 The first class meeting includes discussion of a few problems in heat transfer, selected from the following.
 
-*   Suppose that a wall has a thickness L, a conductivity k, and an area A, with one side at T1 and the other side at T2. What is the heat flux through the wall?
+*   Suppose that a wall has a thickness L, a conductivity k, and an area A, with one side at T{{< sub "1" >}} and the other side at T{{< sub "2" >}}. What is the heat flux through the wall?
 *   What is the difference between conduction and convection? Can you have conduction in a fluid?
 *   What is the purpose of cooling fins? Specifically, why bother to add fins?
 *   Do small diameter thermocouples have the same response time to sudden temperature changes in air flows as large diameter ones? Why?
