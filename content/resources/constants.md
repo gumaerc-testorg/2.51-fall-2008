@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 7690ba97-15c3-060e-125d-a1dd6abbef63
 resourcetype: Document
 title: Selected Physical Constants
 uid: 8e788b81-fc40-b242-ee92-2a5dac1635f2

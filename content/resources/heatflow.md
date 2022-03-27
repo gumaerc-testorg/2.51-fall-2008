@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
+parent_uid: 5d4ba385-23a6-0015-5b4e-af6ac1cba33a
 resourcetype: Document
 title: "Modeling Heat Flow using MATLAB\xAE and PDEToolbox"
 uid: 860a7775-d738-fd0d-4a31-a9d35888ad20

@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 7690ba97-15c3-060e-125d-a1dd6abbef63
 resourcetype: Document
 title: Selected Conversion Factors
 uid: a04324f3-5793-621e-7286-230101dc3f09
