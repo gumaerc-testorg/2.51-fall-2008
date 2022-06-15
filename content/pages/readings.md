@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides information on background topics students are expected
+  to be somewhat familiar with, textbook information, and the list of reading assignments
+  for the course.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection

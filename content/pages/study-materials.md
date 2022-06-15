@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides an introduction to the course, information on data
+  useful in heat and mass transfer, and sources for physical properties of matter.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Study Materials
@@ -28,8 +30,8 @@ The thermal conductivity of solids can vary significantly with: alloying process
 Study Materials is divided into a few sections:
 
 *   References for Physical Properties of Matter (see below)
-*   Selected Physical Constants ([PDF]({{< baseurl >}}/resources/constants))
-*   Selected Conversion Factors ([PDF]({{< baseurl >}}/resources/factors))
+*   Selected Physical Constants ({{% resource_link 8e788b81-fc40-b242-ee92-2a5dac1635f2 "PDF" %}})
+*   Selected Conversion Factors ({{% resource_link a04324f3-5793-621e-7286-230101dc3f09 "PDF" %}})
 
 Some Sources for Physical Properties of Matter
 ----------------------------------------------

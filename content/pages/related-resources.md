@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information on sources for physical properties
+  of matter and a list of related MIT courses.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
