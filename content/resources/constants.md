@@ -4,6 +4,7 @@ description: Handout containing a list of physical constants.
 file: /courses/2-51-intermediate-heat-and-mass-transfer-fall-2008/8e788b81fc40b242ee922a5dac1635f2_constants.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
@@ -13,4 +14,3 @@ title: Selected Physical Constants
 uid: 8e788b81-fc40-b242-ee92-2a5dac1635f2
 ---
 Handout containing a list of physical constants.
-

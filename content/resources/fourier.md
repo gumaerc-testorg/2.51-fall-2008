@@ -9,10 +9,10 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: Jean Baptiste Joseph Fourier
 uid: 81c471cd-e557-41d4-d174-efbdf28ab1a9
 ---
 Jean Baptiste Joseph Fourier. "Portraits et Histoire des Hommes Utiles, Collection de Cinquante Portraits," Societe Montyon et Franklin, 1839-1840.
-
