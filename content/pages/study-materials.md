@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides an introduction to the course, information on data
+  useful in heat and mass transfer, and sources for physical properties of matter.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Study Materials
 uid: 7690ba97-15c3-060e-125d-a1dd6abbef63
 ---
@@ -9,7 +13,7 @@ Getting Started
 
 The first class meeting includes discussion of a few problems in heat transfer, selected from the following.
 
-*   Suppose that a wall has a thickness L, a conductivity k, and an area A, with one side at T1 and the other side at T2. What is the heat flux through the wall?
+*   Suppose that a wall has a thickness L, a conductivity k, and an area A, with one side at T{{< sub "1" >}} and the other side at T{{< sub "2" >}}. What is the heat flux through the wall?
 *   What is the difference between conduction and convection? Can you have conduction in a fluid?
 *   What is the purpose of cooling fins? Specifically, why bother to add fins?
 *   Do small diameter thermocouples have the same response time to sudden temperature changes in air flows as large diameter ones? Why?
@@ -26,8 +30,8 @@ The thermal conductivity of solids can vary significantly with: alloying process
 Study Materials is divided into a few sections:
 
 *   References for Physical Properties of Matter (see below)
-*   Selected Physical Constants ([PDF]({{< baseurl >}}/resources/constants))
-*   Selected Conversion Factors ([PDF]({{< baseurl >}}/resources/factors))
+*   Selected Physical Constants ({{% resource_link 8e788b81-fc40-b242-ee92-2a5dac1635f2 "PDF" %}})
+*   Selected Conversion Factors ({{% resource_link a04324f3-5793-621e-7286-230101dc3f09 "PDF" %}})
 
 Some Sources for Physical Properties of Matter
 ----------------------------------------------
