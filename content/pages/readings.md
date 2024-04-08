@@ -33,7 +33,7 @@ The course will be taught from:
 
 Lienhard IV, J. H., and J. H. Lienhard V. _A Heat Transfer Version Textbook_. 3rd ed. Lexington, MA: Phlogiston Press, 2008. ISBN: 9780971383531.
 
-This book is available without charge in a hyperlinked PDF format ([HTML](http://web.mit.edu/lienhard/www/ahtt.html)). If you already own a different comprehensive textbook, consult the instructor about its suitability for this course.
+This book is available without charge in a hyperlinked PDF format ({{% resource_link "8af0e809-03ad-4e40-955a-87c00d85c40d" "HTML" %}}). If you already own a different comprehensive textbook, consult the instructor about its suitability for this course.
 
 The following references are also available:
 
@@ -41,7 +41,7 @@ Mills, A. F. _Basic Heat and Mass Transfer_. 2nd ed. Upper Saddle River, NJ: Pre
 
 Baehr, H. D., and K. Stephan. _Heat and Mass Transfer_. New York, NY: Springer-Verlag, 1998. ISBN: 9783540636953.
 
-Also see: Howell, J. R. _[Radiation Configuration Factors](https://web.engr.uky.edu/rtl/Catalog/)_ 
+Also see: Howell, J. R. _{{% resource_link "106f1a19-af3f-40f6-88c5-85b8526de7ea" "Radiation Configuration Factors" %}}_ 
 
 Cengel, Y. A. _Heat Transfer: A Practical Approach_. 2nd ed. Boston, MA: McGraw-Hill, 2002. ISBN: 9780072458930.
 
