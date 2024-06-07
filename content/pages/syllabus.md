@@ -30,7 +30,7 @@ Classes
 
 Lecturer: Prof. Bora Mikic  
 Lectures: 2 sessions / week, 1.5 hours / session  
-Textbook: Lienhard and Lienhard. _{{% resource_link "8af0e809-03ad-4e40-955a-87c00d85c40d" "A Heat Transfer Textbook" %}}_. 3rd ed., 2008.
+Textbook: Lienhard and Lienhard. _[A Heat Transfer Textbook](http://web.mit.edu/lienhard/www/ahtt.html)_. 3rd ed., 2008.
 
 Exams and Grading
 -----------------
@@ -96,6 +96,6 @@ Mills, A. F. _Basic Heat and Mass Transfer_. 2nd ed. Upper Saddle River, NJ: Pre
 
 Baehr, H. D., and K. Stephan. _Heat and Mass Transfer_. New York, NY: Springer-Verlag, 1998. ISBN: 9783540636953.
 
-MathWorks, Inc. _{{% resource_link "13b9ebf6-f907-4274-9814-f7f01239a297" "Partial Differential Equation Toolbox User's Guide" %}}_, 1995.
+MathWorks, Inc. _[Partial Differential Equation Toolbox User's Guide](https://www.mathworks.com/products/pde.html)_, 1995.
 
 Cengel, Y. A. _Heat Transfer: A Practical Approach_. 2nd ed. Boston, MA: McGraw-Hill, 2002. ISBN: 9780072458930.
