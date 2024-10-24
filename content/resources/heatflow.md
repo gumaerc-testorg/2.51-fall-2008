@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Demonstration of modeling heat flow using MATLAB and PDEToolbox.
-file: /courses/2-51-intermediate-heat-and-mass-transfer-fall-2008/860a7775d738fd0d4a31a9d35888ad20_heatflow.pdf
+file: /ol-ocw-studio-app/courses/2-51-intermediate-heat-and-mass-transfer-fall-2008/860a7775d738fd0d4a31a9d35888ad20_heatflow.pdf
 file_size: 118099
 file_type: application/pdf
 learning_resource_types:
