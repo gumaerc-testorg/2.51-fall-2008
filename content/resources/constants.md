@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Handout containing a list of physical constants.
-file: /ol-ocw-studio-app/courses/2-51-intermediate-heat-and-mass-transfer-fall-2008/8e788b81fc40b242ee922a5dac1635f2_constants.pdf
+file: /courses/2-51-intermediate-heat-and-mass-transfer-fall-2008/8e788b81fc40b242ee922a5dac1635f2_constants.pdf
 file_size: 50112
 file_type: application/pdf
 learning_resource_types: []
