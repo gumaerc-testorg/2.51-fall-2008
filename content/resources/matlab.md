@@ -2,7 +2,7 @@
 content_type: resource
 description: A quick orientation guide to PDETool, a partial differential-equation
   (PDE) toolbox in MATLAB.
-file: /ol-ocw-studio-app/courses/2-51-intermediate-heat-and-mass-transfer-fall-2008/6fcd30c33e98fa4985be8b6680c08bff_matlab.pdf
+file: /courses/2-51-intermediate-heat-and-mass-transfer-fall-2008/6fcd30c33e98fa4985be8b6680c08bff_matlab.pdf
 file_size: 99089
 file_type: application/pdf
 learning_resource_types:
