@@ -24,15 +24,15 @@ Ho, C. Y. *Thermal Conductivity of the Elements: A Comprehensive Review*. Washin
 
 Poling, B. E., et al. *The Properties of Gases and Liquids*. 5th ed. New York, NY: McGraw-Hill, 2000. ISBN: 9780070116825.
 
-[NIST Chemistry Webbook](http://webbook.nist.gov/chemistry/fluid/)
+{{% resource_link "f00298f6-7479-4888-876b-4ebc65bb0d91" "NIST Chemistry Webbook" %}}
 
-Physical Constants: [NIST Reference for Constants](http://physics.nist.gov/cuu/Constants/index.html)
+Physical Constants: {{% resource_link "d0d01a38-d8a4-45c0-9c95-915eff2ee983" "NIST Reference for Constants" %}}
 
-Conversion Factors: [NIST Guide to SI Units, Appendix B: Conversion Factors](http://physics.nist.gov/Pubs/SP811/appenB.html)
+Conversion Factors: {{% resource_link "cf47d0d0-3749-4802-b5ad-b701107655d0" "NIST Guide to SI Units, Appendix B: Conversion Factors" %}}
 
-[The International Association for the Properties of Water and Steam](http://www.iapws.org/)
+{{% resource_link "b6e147fb-41d4-4d25-978f-b92540f18e3a" "The International Association for the Properties of Water and Steam" %}}
 
-[American Society of Mechanical Engineers](http://www.asme.org/)
+{{% resource_link "9a24c356-440d-4018-8ba9-1bf4ed400ce5" "American Society of Mechanical Engineers" %}}
 
 ## Related MIT Courses
 
@@ -44,4 +44,4 @@ Thermal Fluids Engineering II (2.006)
 ### Related Subjects
 
 Modelling and Approximation of Thermal Processes (2.52)   
-[Advanced Heat and Mass Transfer (2.55)](http://web.archive.org/web/20090118092240/http://web.mit.edu/2.55/www/index.html)
+{{% resource_link "10e2341f-e06c-4992-9412-99339ababc39" "Advanced Heat and Mass Transfer (2.55)" %}}
