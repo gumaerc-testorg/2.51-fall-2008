@@ -36,7 +36,7 @@ Study Materials is divided into a few sections:
 Some Sources for Physical Properties of Matter
 ----------------------------------------------
 
-Compilations of property data are published by many scientific and commercial organizations, including the International Union of Pure and Applied Chemistry ({{% resource_link "ed2c2bfc-fc7a-473e-884b-6bf11c15b548" "IUPAC" %}}), the American Society for Metals ({{% resource_link "311e7448-41aa-4062-95ad-cf60b0343bb5" "ASM" %}}), the National Institute of Standards ({{% resource_link "e3269c27-ecbc-4222-9cd4-71100b247312" "NIST" %}}), and the International Association for the Properties of Water and Steam ({{% resource_link "28f6dd4b-3dd1-447a-a1a1-e5b83fd49699" "IAPWS" %}}).
+Compilations of property data are published by many scientific and commercial organizations, including the International Union of Pure and Applied Chemistry ([IUPAC](http://iupac.org/)), the American Society for Metals ([ASM](http://asminternational.org/)), the National Institute of Standards ([NIST](http://nist.gov/)), and the International Association for the Properties of Water and Steam ([IAPWS](http://iapws.org/)).
 
 Purdue University Thermophysical Properties Research Center. _Thermophysical Properties of Matter_. New York, NY: IFI/Plenum, 1970-1979. ISBN: 9780306670206. Fourteen volumes.
 
@@ -48,6 +48,6 @@ Bellows, James C., John S. Gallagher, Allan H. Harvey, and William T. Parry. _AS
 
 Ho, C. Y. _Thermal Conductivity of the Elements: A Comprehensive Review_. Washington, DC: Published by the American Chemical Society and the American Institute of Physics for the National Bureau of Standards, 1974. ISBN: 9780883182161.
 
-{{% resource_link "f00298f6-7479-4888-876b-4ebc65bb0d91" "NIST Chemistry Webbook" %}}
+[NIST Chemistry Webbook](http://webbook.nist.gov/chemistry/fluid/)
 
 Poling, B. E., et al. _The Properties of Gases and Liquids_. 5th ed. New York, NY: McGraw-Hill, 2000. ISBN: 9780070116825.
