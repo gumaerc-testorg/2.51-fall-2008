@@ -31,7 +31,7 @@ The course will be taught from:
 
 Lienhard IV, J. H., and J. H. Lienhard V. *A Heat Transfer Version Textbook*. 3rd ed. Lexington, MA: Phlogiston Press, 2008. ISBN: 9780971383531.
 
-This book is available without charge in a hyperlinked PDF format ({{% resource_link "230d0cc2-e6dc-4efe-ad07-ac2832d854ec" "HTML" %}}). If you already own a different comprehensive textbook, consult the instructor about its suitability for this course.
+This book is available without charge in a hyperlinked PDF format ([HTML](http://web.mit.edu/lienhard/www/ahtt.html)). If you already own a different comprehensive textbook, consult the instructor about its suitability for this course.
 
 The following references are also available:
 
